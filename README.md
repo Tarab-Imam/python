@@ -1,5 +1,5 @@
 # python
-In this repository, I'm going to use python.
+In this repository, I am going to use python.
 <br>
 It's my third repository.
 <br>
