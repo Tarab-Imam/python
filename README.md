@@ -1,6 +1,6 @@
 # python
-In this repository, I am going to use pyhton.
+In this repository, I'm going to use python.
 <br>
 It is my third repository.
 <br>
-I will write programs like factorial.
+I'll write programs like factorial,etc.
